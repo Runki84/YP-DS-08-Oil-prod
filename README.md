@@ -20,5 +20,5 @@
 <li><b>f0, f1, f2</b> — три признака точек (неважно, что они означают, но сами признаки значимы);</li>
 <li><b>product</b> — объём запасов в скважине (тыс. баррелей).</li>
 </ul>
-<br><br>
-<a href="https://github.com/Runki84/YP-DS-08-Oil-prod/blob/main/08-oil-prod.ipynb">Проект</a>
+<br>
+<a href="https://github.com/Runki-DS/YP-DS-08-Oil-prod/blob/main/08-oil-prod.ipynb">Проект</a>
